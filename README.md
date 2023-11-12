@@ -1,4 +1,4 @@
-# Analysis and Implementation of Embedded Operating Systems Lab1
+# Analysis and Implementation of Embedded Operating Systems Lab 1
 
 嵌入式作業系統分析與實作 Analysis and Implementation of Embedded Operating Systems [CSIE7618] @ NCKU 2022 Spring
 
@@ -10,6 +10,10 @@
     - [FreeRTOS v10.2.1](https://github.com/FreeRTOS/FreeRTOS/tree/V10.2.1)
 - IDE
     - STM32CubeIDE
+
+## Report
+
+https://hackmd.io/@cpt/embeddedOS_lab1
 
 ## Requirement
 
@@ -24,7 +28,3 @@
 - Button-task: If the button is pressed, the LED-task will switch to the other state (And execute from the start point of that state)
     - Debounce handling
     - Edge-detection handling
-
-## Report
-
-https://hackmd.io/@cpt/embeddedOS_lab1
